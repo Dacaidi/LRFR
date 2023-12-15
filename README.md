@@ -20,7 +20,10 @@ sh LRFR.sh
 
 **Requirements**: Python 3.9, PyTorch=2.0.0, tensorboardX
 
-Citation
+Citation and Acknowledgment
+-
+
+If you find our paper or code beneficial for your research or projects, please cite our paper:
 ```
 @misc{liu2023learning,
       title={Learning a Low-Rank Feature Representation: Achieving Better Trade-Off between Stability and Plasticity in Continual Learning}, 

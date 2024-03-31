@@ -2,7 +2,7 @@
 
 As featured in our paper presented at ICASSP 2024:
 
-**Title**: Learning a Low-Rank Feature Representation: Achieving Better Trade-Off between Stability and Plasticity in Continual Learning
+**Title**: [Learning a Low-Rank Feature Representation: Achieving Better Trade-Off between Stability and Plasticity in Continual Learning](https://doi.org/10.1109/ICASSP48485.2024.10446458)
 
 **Authors**: Zhenrong Liu, Yang Li, Yi Gong, Yik-Chung Wu
 
@@ -25,12 +25,11 @@ Citation and Acknowledgment
 
 If you find our paper or code beneficial for your research or projects, please cite our paper:
 ```
-@misc{liu2023learning,
-      title={Learning a Low-Rank Feature Representation: Achieving Better Trade-Off between Stability and Plasticity in Continual Learning}, 
-      author={Zhenrong Liu and Yang Li and Yi Gong and Yik-Chung Wu},
-      year={2023},
-      eprint={2312.08740},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
+@INPROCEEDINGS{10446458,
+  author={Liu, Zhenrong and Li, Yang and Gong, Yi and Wu, Yik-Chung},
+  booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Learning a Low-Rank Feature Representation: Achieving Better Trade-Off Between Stability and Plasticity in Continual Learning}, 
+  year={2024},
+  pages={5885-5889},
+  doi={10.1109/ICASSP48485.2024.10446458}}
 ```
